@@ -1,0 +1,9 @@
+//%attributes = {"shared":true}
+C_TEXT:C284($1)
+C_TEXT:C284($2)
+C_TEXT:C284($0)
+
+SET ENVIRONMENT VARIABLE:C812("XCEL_WORKBOOK_NAME"; $1)
+SET ENVIRONMENT VARIABLE:C812("XCEL_DOCUMENT_PATH"; $2)
+
+$0:=XCEL_util_EXECUTE("workbook_save_as_xml")

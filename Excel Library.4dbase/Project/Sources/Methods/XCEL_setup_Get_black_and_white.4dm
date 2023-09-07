@@ -1,0 +1,9 @@
+//%attributes = {"shared":true}
+C_TEXT:C284($1)
+C_TEXT:C284($2)
+C_BOOLEAN:C305($0)
+
+SET ENVIRONMENT VARIABLE:C812("XCEL_WORKBOOK_NAME"; $1)
+SET ENVIRONMENT VARIABLE:C812("XCEL_SHEET_NAME"; $2)
+
+$0:=(XCEL_util_EXECUTE("setup_get_black_and_white")="True")

@@ -1,0 +1,1782 @@
+{
+	"methods": {
+		"XCEL_orientation_Horizontal": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_picture_appearance_Printer": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_Get_width": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_SET_LOCKED": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_window_SET_SHOW_TABS": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"VBS_util_EXECUTE": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"XCEL_orientation_Upward": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_FILL_DOWN": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"_samples_setup": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"XCEL_range_Get_font_size": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_shift_Right": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_window_GET_RECT": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_application_HIDE": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_border_style_None": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_SET_ALIGNMENT_H": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"AS_util_EXECUTE": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"XCEL_workbook_Save_as_sylk": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_window_Get_tab_ratio": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_shape_Get_placement": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_page_orientation_Landscape": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_setup_Get_draft": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_chart_SET_NAME": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_fill_Years": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_workbook_Save_as_xls": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_window_Get_split_column": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_UNMERGE": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_border_weight_Thin": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_border_Edge_left": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_orientation_Vertical": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_Get_font_bold": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_border_Inside_vertical": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_fill_Default": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_window_SET_ZOOM": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_placement_Free_floating": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_placement_Move_and_size": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_setup_SET_ORIENTATION": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_window_SET_SPLIT_COLUMN": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_page_number_Automatic": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_SET_FONT_SHADOW": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_setup_SET_RIGHT_MARGIN_IN": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_underline_Double_account": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_setup_Get_black_and_white": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_sheet_BREAK_CREATE_H": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_setup_SET_ZOOM": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_pattern_Automatic": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_picture_Create": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_setup_SET_TOP_MARGIN_CM": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_shape_Get_name": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_workbook_Get_full_name": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_setup_SET_BOTTOM_MARGIN_IN": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_SET_VALUE_ARRAY": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_util_EXECUTE": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"invisible": true,
+				"shared": true
+			}
+		},
+		"XCEL_fill_Formats": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_SET_HEIGHT": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_pattern_Gray_16": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_fill_Growth_trend": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_pattern_Criss_cross": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_pattern_Light_down": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_underline_Single": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_border_Bottom": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_Get_superscript": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_application_ARRANGE_WINDOW": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_window_SET_VISIBLE": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_sheet_SET_BACKGROUND": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_shape_Get_rotation": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_GET_RECT": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_window_Get_zoom": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_Get_locked": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_window_SET_SHOW_GRIDLINES": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_SET_FONT_OUTLINE": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_pattern_Horizontal": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_SET_FONT_BOLD": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_alignment_Center": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_setup_Get_zoom": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_SET_NUMBER_FORMAT": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_pattern_Grid": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_pattern_Vertical": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_Get_interior_color": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_picture_appearance_Screen": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_border_Edge_bottom": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_pattern_Gray_8": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_window_SET_ENABLE_RESIZE": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_window_SET_SHOW_SCROLL_H": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_window_SET_FREEZE_PANES": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_Get_alignment_v": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_SET_FONT_ITALIC": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_orientation_Downward": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_FILL_UP": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_border_Left": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_Get_strike_through": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_shape_SET_NAME": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"_samples_window": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"XCEL_workbook_Save_as_xlsx": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_shift_Left": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_alignment_Justify": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_SET_FONT_COLOR": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_Get_formula": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_arrange_style_Vertical": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_border_Diagonal_down": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_SET_INTERIOR_PATTERN": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_Get_value": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_Get_font_color": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_SET_FONT_SIZE": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_Get_number_format": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_pattern_Down": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_setup_SET_TOP_MARGIN_IN": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_fill_Weekdays": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_workbook_Create": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_SET_INTERIOR_COLOR": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_setup_SET_BOTTOM_MARGIN_CM": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_workbook_Save_as_csv": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_setup_Get_1st_page_number": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_placement_Move": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_setup_Get_header_margin": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_chart_Count": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_arrange_style_Cascade": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_reading_order_Right to lef": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_window_Get_freeze_panes": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_border_Inside_horizontal": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_workbook_SEND_MAIL": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_window_Get_show_gridlines": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_window_SET_RECT": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_window_Get_caption": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_window_Get_show_tabs": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_border_weight_Thick": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_window_Get_display_grid": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_chart_Get_name": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_arrange_style_Horizontal": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_chart_Create": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_Get_height": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_border_style_Dot": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_INSERT": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_shift_Up": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_shape_Count": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_pattern_Gray_75": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_setup_Get_right_margin": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_shape_SET_PLACEMENT": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_window_SET_TAB_RATIO": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_window_Get_show_scroll_h": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_SET_STRIKE_THROUGH": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_Get_font_outline": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_workbook_SEND_MAIL_REVIEW": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_workbook_Get_path": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_application_SET_FULLSCREEN": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_Get_orientation": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_window_Get_enable_resize": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_setup_SET_RIGHT_MARGIN_CM": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_page_orientation_Portrait": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"_samples_range": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"XCEL_application_Get_fullscreen": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_border_style_Dash_dot": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_chart_Get_type": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_SET_NAME": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_SET_VALUE": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_border_Top": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_setup_SET_FIT_PAGES_WIDE": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_MERGE_ACROSS": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_SET_BORDER": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_shift_Down": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"_samples_application": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"XCEL_range_AUTOFILL": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_View_page_layout": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_window_Get_show_headings": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_pattern_Gray_50": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_setup_Get_fit_pages_tall": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_picture_format_Picture": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_alignment_Left": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_fill_Months": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_COPY_PICTURE": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_application_GET_RECT": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_setup_SET_HEADER_MARGIN_IN": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_sheet_Count": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_window_SET_SHOW_SCROLL_V": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_Get_alignment_h": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_shape_GET_RECT": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_setup_Get_footer_margin": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_fill_Days": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_window_Get_gridline_color": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_Get_wrap_text": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_underline_None": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_SET_SHRINK_TO_FIT": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_fill_Series": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_window_SET_CAPTION": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_setup_SET_LEFT_MARGIN_CM": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"_samples_workbook": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"XCEL_range_SET_FONT_NAME": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_shape_SET_LOCK_RATIO": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_fill_Values": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_pattern_Semi_gray_75": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_workbook_CLOSE": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_setup_SET_FOOTER_MARGIN_IN": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_border_style_Slant_dash_do": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_shape_Get_lock_ratio": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_SET_SUPERSCRIPT": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_setup_SET_FIT_PAGES_TALL": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_setup_SET_1ST_PAGE_NUMBER": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_window_Get_split_row": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_setup_Get_bottom_margin": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_pattern_Solid": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"_samples_": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"XCEL_range_SET_FORMULA": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_workbook_CLOSE_ALL": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_window_SET_SHOW_HEADINGS": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_underline_Single_account": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_setup_Get_fit_pages_wide": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_Get_font_shadow": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_arrange_style_Tiled": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_border_Edge_right": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_sheet_SET_NAME": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_border_Diagonal_up": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_SET_UNDERLINE": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_sheet_Create": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_shape_SET_ROTATION": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_application_SHOW": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_picture_format_Bitmap": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_window_SET_GRIDLINE_COLOR": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_Get_shrink_to_fit": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_window_Get_show_scroll_v": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_window_SET_VIEW": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_border_weight_Hair_line": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_alignment_Bottom": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_border_style_Continuous": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_SET_SUBSCRIPT": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_setup_Get_orientation": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_setup_SET_HEADER_MARGIN_CM": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_window_SET_SPLIT_ROW": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_pattern_Light_up": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_reading_order_Left_to_righ": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_GET_BORDER": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_alignment_Right": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_pattern_Up": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_underline_Double": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_border_weight_Medium": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_window_Get_visible": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_setup_Get_top_margin": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"_samples_shape": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"XCEL_border_Right": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_MERGE": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_setup_SET_DRAFT": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_setup_SET_LEFT_MARGIN_IN": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_border_style_Dash": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_Get_font_italic": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_SET_ALIGNMENT_V": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_DELETE": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_setup_Get_left_margin": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_sheet_BREAK_RESET": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_border_Edge_top": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_border_style_Dash_dot_dot": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_window_Count": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_window_Get_show_outline": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_FILL_LEFT": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_sheet_Get_name": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_pattern_Gray_25": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_Get_subscript": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_workbook_Save_as_dif": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_alignment_Top": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_Get_underline": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_fill_Copy": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"_samples_chart": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"XCEL_window_Get_view": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_border_style_Double": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_Get_pattern_color": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"_samples_sheet": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"XCEL_pattern_Light_horizontal": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_SET_WIDTH": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_workbook_SAVE": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_COPY_SPECIAL": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_GET_INTERIOR_PATTERN": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_SET_ORIENTATION": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_Get_value2": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_workbook_Open": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_chart_SET_TYPE": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_Get_name": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_application_QUIT": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_FILL_RIGHT": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_setup_SET_BLACK_AND_WHITE": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_window_SET_SHOW_OUTLINE": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_alignment_Distributed": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_workbook_Save_as_xml": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_View_normal": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_reading_order_Context": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_sheet_BREAK_CREATE_V": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_pattern_Light_vertical": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_shape_SET_RECT": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_SET_WRAP_TEXT": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_fill_Linear_trend": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_workbook_Web_page_preview": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_setup_SET_FOOTER_MARGIN_CM": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_range_Get_font_name": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_pattern_Checker": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_application_SET_RECT": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"update_build_settings": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"invisible": true,
+				"preemptive": "capable"
+			}
+		},
+		"XCEL_util_GET_PARAMETER": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_chart_COPY_PICTURE": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_workbook_PRINT_OUT": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"XCEL_pattern_None": {
+			"timeStamp": "2023-09-07T07:38:19Z",
+			"attributes": {
+				"shared": true
+			}
+		}
+	}
+}
