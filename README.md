@@ -1,4 +1,4 @@
-# 4d-component-excel-application
+# 4d-component-excel-library
 clone of the component originally published in 2011
 
 ## About 
