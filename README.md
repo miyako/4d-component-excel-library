@@ -7,7 +7,7 @@ the component is a cross platform utility that invokes AppleScript on Mac and VB
 
 performance it **very slow** because every command launches the scripting host.
 
-slides converted to video: https://github.com/miyako/4d-component-excel-library/blob/main/prsentation.md
+see [slides converted to video](blob/main/prsentation.md)
 
 I publish this repository only for archival purposes.
 
