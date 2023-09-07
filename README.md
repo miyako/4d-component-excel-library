@@ -1,2 +1,2 @@
 # 4d-component-excel-application
-clone of the component originall published in 2011
+clone of the component originally published in 2011
