@@ -1,4 +1,3 @@
 # presentation
 
-https://github.com/miyako/4d-component-excel-library/assets/1725068/a4f74833-6837-49bd-9f90-1d185c60af66
-
+https://github.com/miyako/4d-component-excel-library/assets/1725068/87805395-8b5e-43fe-90ce-da8851abc0ca
