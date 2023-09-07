@@ -8,3 +8,7 @@ the component is a cross platform utility that invokes AppleScript on Mac and VB
 performance it **very slow** because every command launches the scripting host.
 
 I publish this repository only for archival purposes.
+
+
+https://github.com/miyako/4d-component-excel-library/assets/1725068/444be496-f339-4106-b99e-fe1eb1eb414e
+
