@@ -11,5 +11,4 @@ I publish this repository only for archival purposes.
 
 see [slides converted to video](prsentation.md).
 
-https://github.com/miyako/4d-component-excel-library/assets/1725068/444be496-f339-4106-b99e-fe1eb1eb414e
-
+https://github.com/miyako/4d-component-excel-library/assets/1725068/fb9c2ebc-1afb-43fc-a29c-7b438a375dc9
